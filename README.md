@@ -14,6 +14,9 @@ Lecture14: https://www.notion.so/2f1a9af81c98803fb2a9ce500e13ce71?source=copy_li
 
 Lecture 17: https://www.notion.so/Lecture-17-Project-2fea9af81c98800caa23eccb3fb108d0?source=copy_link
 
+
+Lecture20: https://www.notion.so/LangGraph-306a9af81c9880aaa2e3e37d1384063f?source=copy_link
+
 <!-- crypto: "https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&ids=bitcoin" 
 <!-- news API: `https://news.google.com/rss/search?q=${encodeURIComponent(topic)}&hl=en-IN&gl=IN&ceid=IN:en` -->
 
